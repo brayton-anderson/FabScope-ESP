@@ -102,8 +102,8 @@ Board
 
 ## Status
 
-- [ ] Schematic complete
-- [ ] PCB tested
+- [x] Schematic complete
+- [x] PCB tested
 - [ ] Firmware ported and tested
 - [ ] Enclosure files added
 - [ ] Calibration documented
