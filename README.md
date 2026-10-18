@@ -126,7 +126,10 @@ This derivative work is released under the same license as the original, **CC BY
 ## Author
 
 **Brayton Anderson** — Nairobi, Kenya
-<!-- Add contact / website / Andie Labs link if you want -->
+**WhatsApp** - +254 7068 529 23
+**Email** - brayton@proton.me
+**LinkedIn**[Brayton Anderson)](https://linkedin.com/in/brayton-anderson-512557142).
+
 
 ## Contributing
 
